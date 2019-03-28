@@ -73,7 +73,7 @@ def plot_Asylum_seekers(dataframe, Origin):
 widgets.interact(plot_Asylum_seekers, 
 dataframe = widgets.fixed(refug),
 Origin = widgets.Dropdown(description='Origin', options=refug.Origin.unique(), value='Afghanistan')
-)
+);
 
 
 #%%
