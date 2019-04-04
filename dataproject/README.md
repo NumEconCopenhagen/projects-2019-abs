@@ -21,7 +21,7 @@ Execute the code for all new sections. The start of a section is indicated by a 
 
 E.g. The beginning of out code should be run as follows:
 
-
+<img width="1088" alt="Readme Image" src="https://user-images.githubusercontent.com/47298661/55552394-86276280-56dd-11e9-91bf-d1a5d32e7380.png">
 
 
 ## Sources
