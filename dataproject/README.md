@@ -19,28 +19,9 @@ Works best if runned in Jupyter, as the extension "ipywidgets" does not work in 
 
 Execute the code for all new sections. The start of a section is indicated by a dropdown and a comment. 
 
-E.g.
+E.g. The beginning of out code should be run as follows:
 
-/# Download data on refugee population in a country from the World Bank database
-refugeesin_wb = wb.download(indicator='SM.POP.REFG', country = 'all', start=1990, end=2017)
-refugeesin_wb = refugeesin_wb.reset_index()
 
-RUN ABOVE SECTION CODE 
-AND PLUG IN NEXT SECTION AFTERWARDS
-
-/# Clean data (deleting regions, keeping countries)
-refugeesin_wb.loc[refugeesin_wb.country == 'Afghanistan']
-refugeesin_wb = refugeesin_wb.iloc[1316:,]
-refugeesin_wb = refugeesin_wb.reset_index()
-refugeesin_wb = refugeesin_wb.drop('index', axis = 1)
-
-RUN ABOVE SECTION CODE 
-AND PLUG IN NEXT SECTION AFTERWARDS
-
-/# Check unique countries to compare with other data set, rename columns
-len(refugeesin_wb.country.unique())
-refugeesin_wb = refugeesin_wb.rename(columns = {'country':'Country','year':'Year','SM.POP.REFG':'Refugee population in country'})
-refugeesin_wb.head(3)
 
 
 ## Sources
