@@ -5,7 +5,7 @@ A graphical analysis of the relationship between unemployment and number of refu
 ## Getting Started
 
 Download the entire folder "Dataproject" to get started. 
-The extension **"ipywidgets"** used to make the interactive graph with a drop down menu, does not work in all environments. Therefore, we recommend you run the code with **Jupyter**. 
+The extension **"ipywidgets"** used to make the interactive graph with a drop down menu does not work in all environments. Therefore, we recommend you run the code with **Jupyter**. 
 
 ### Installing
 
@@ -14,11 +14,11 @@ All the extensions you need to install are already included in the code, just ru
 
 ## Deployment
 
-Works best if runned in Jupyter, as the extension "ipywidgets" does not work in all environments.
+Works best if executed in Jupyter, as the extension "ipywidgets" does not work in all environments.
 
-Execute the code for all new sections. The start of a section is indicated by a dropdown and a comment. 
+Execute the code for all new sections.
 
-E.g. The beginning of out code should be run as follows:
+E.g. the beginning of out code should be run as follows:
 
 <img width="1120" alt="Readme Image2" src="https://user-images.githubusercontent.com/47298661/55552573-064dc800-56de-11e9-85fb-49c9f39f89d3.png">
 
