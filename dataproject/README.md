@@ -18,7 +18,9 @@ All the extensions you need to install are already included in the code, just ru
 Works best if runned in Jupyter, as the extension "ipywidgets" does not work in all environments.
 
 Execute the code for all new sections. The start of a section is indicated by a dropdown and a comment. 
+
 E.g.
+
 /# Download data on refugee population in a country from the World Bank database
 refugeesin_wb = wb.download(indicator='SM.POP.REFG', country = 'all', start=1990, end=2017)
 refugeesin_wb = refugeesin_wb.reset_index()
