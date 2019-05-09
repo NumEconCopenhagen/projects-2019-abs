@@ -1,6 +1,8 @@
-# Modelproject
+# Model Project
 
-Our project is titled **Cournot Competition with and without Collusion** and is about finding the Cournot Nash-Equilibrium in a situation with two symmetric firms. We look at two different scenarios the case where the two firms do not collude, and the case where they do. Furthermore, we look into whether a collusion will sustain, and argue that it will not, due to the infamous prisoners dilemma.
+This project is about **Cournot competition with and without collusion**. First, we find the Cournot-Nash Equilibrium in a situation with two symmetric firms and no collusion, and afterwards we look at the scenario where the firms collude. 
+
+Furthermore, we look into whether collusion will sustain, and argue that it will not, due to prisoner's dilemma.
 
 The **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
 
