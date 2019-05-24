@@ -11,3 +11,9 @@ adu - https://github.com/NumEconCopenhagen/projects-2019-adu/issues/1
 ccl - ttps://github.com/NumEconCopenhagen/projects-2019-ccl/issues/5
 jgk - https://github.com/NumEconCopenhagen/projects-2019-jgk/issues/4
 chh-jmk - https://github.com/NumEconCopenhagen/projects-2019-chh-jmk/issues/7
+
+Feedback by FBZ650:
+Zuca&Tugas - https://github.com/NumEconCopenhagen/projects-2019-zuca-tugas/issues/6
+Group KVM - https://github.com/NumEconCopenhagen/projects-2019-group-kvm/issues/6
+MJK - https://github.com/NumEconCopenhagen/projects-2019-mjk/issues/12
+asdf - https://github.com/NumEconCopenhagen/projects-2019-asdf/issues/8
