@@ -15,7 +15,7 @@ The UN Refugee Agency: http://popstats.unhcr.org
 
 
 ## Model Analysis Project
-In this project we examine a model of **Cournot competition with and without collusion**. First, we calculate the Cournot-Nash Equilibrium in a situation with two symmetric firms and no collusion. Afterwardes we extend the model by looking at the scenario where the firms collude. 
+In this project we examine a model of **Cournot competition with and without collusion**. First, we calculate the Cournot-Nash Equilibrium in a situation with two symmetric firms and no collusion. Afterwards we extend the model by looking at the scenario where the firms collude. 
 
 Lastly, we look into whether collusion will sustain, and find that it will not, due to prisoner's dilemma.
 
