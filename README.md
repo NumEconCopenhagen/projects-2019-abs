@@ -5,7 +5,7 @@ Furthermore you will find at .txt-file containing documentation for the required
 ## Data Analysis Project
 In our data analysis project, we wish to conduct a graphical analysis of the relationship between unemployment and the number of refugees within different countries. 
 
-All the extensions needed are included in the code, so no further installations are required.
+All the extensions needed are included in the code, and also no further installations are required.
 
 **Dependencies:** Since the extension **"ipywidgets"** does not work in all environments we recommend running the code in **Jupyter**. 
 
