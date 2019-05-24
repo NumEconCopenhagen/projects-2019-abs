@@ -1,12 +1,32 @@
-# Welcome to your NumEconCPH repository
+# Introduction
+In this zip-folder you will find a portfolio containing our Dataproject, Modelproject and Examproject. 
+Furthermore you will find at .txt-file containing documentation for the required peer feedback.
 
-We have provided you with the following repository that contains the required structure for this course. **You should not change any folders in the root directory**.
+# Dataproject
+In our dataproject, we wish to conduct a graphical analysis of the relationship between unemployment and the number of refugees within different countries. 
 
-A short description of the files and folders:
+All the extensions needed are included in the code, so no further installations are required.
 
-* [README.md](/README.md): gives a short introduction to your project. You should change this file so it gives an introduction to what your repository consists of, and how to run the code to get your output. The present README file is always present on [github](https://www.github.com/numeconcopenhagen/numeconcopenhagen-2018/blob/master/README.md).
-* [/binder](/binder/): The folder is used by mybinder.org to setup an interactive version of your repository. For details see this [guide](https://numeconcopenhagen.netlify.com/guides/mybinder/).
-* [/dataproject](/dataproject): The structure is as follows: it contains a jupyter notebook where all the results should be presented. Furthermore, there is a python module named the dataproject where you can write and structure all your code.
-* [/examproject](/examproject): Same structure as above.
-* [/modelproject](/modelproject): Same structure as above.
-* [.gitignore](/.gitignore): A textfile specifying files and folder that will not be uploaded to github, and will not be tracked by git.  
+**Dependencies:** Since the extension **"ipywidgets"** does not work in all environments we recommend running the code in **Jupyter**. 
+
+## Sources
+Worldbank: https://data.worldbank.org/
+The UN Refugee Agency: http://popstats.unhcr.org
+
+
+# Model Project
+In this project we examine a model of **Cournot competition with and without collusion**. Firstly, we calculate the Cournot-Nash Equilibrium in a situation with two symmetric firms and no collusion, and afterwardes we extend the model by looking at the scenario where the firms collude. 
+
+Lastly, we look into whether collusion will sustain, and find that it will not, due to prisoner's dilemma.
+
+**Dependencies:** Apart from a standard Anaconda Python 3 installation no further installations are required.
+
+
+
+# Examproject
+The answers to the exam project are all included in the same jupyter file: Examproject.ipynb.
+
+The structure of the project is equivalent to the structure of the jupyter file provided for the exam. There is a section for each of the three models, where each sub-question is answered in the same order as given.
+
+**Dependencies:** Apart from a standard Anaconda Python 3 installation no further installations are required.
+
