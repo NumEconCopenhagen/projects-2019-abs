@@ -9,8 +9,8 @@ All the extensions needed are included in the code, so no further installations 
 
 **Dependencies:** Since the extension **"ipywidgets"** does not work in all environments we recommend running the code in **Jupyter**. 
 
-**Sources:**
-Worldbank: https://data.worldbank.org/
+**Sources:**  
+Worldbank: https://data.worldbank.org/  
 The UN Refugee Agency: http://popstats.unhcr.org
 
 
